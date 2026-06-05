@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Sydney,_NSW_Australia-0A66C2?style=flat" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to-Data_/_BI_/_Analytics_roles-2a9d8f?style=flat" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Sydney,_NSW_Australia-0A66C2?style=flat" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open_to-Data,_BI_%26_Analytics_roles-2a9d8f?style=flat" alt="Open to work"/>
   <img src="https://komarev.com/ghpvc/?username=abdulrizwani1998-stack&label=Profile%20views&color=0A66C2&style=flat" alt="Profile views"/>
 </p>
 
