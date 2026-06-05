@@ -20,7 +20,7 @@
 - 🧪 I've published **six end-to-end, reproducible analytics projects** (below) — each one I can clone, run, and explain end to end.
 - 💡 My focus: analysis that's **reproducible and defensible**, not impressive-looking code I can't justify.
 - 💬 Ask me about **SQL, dashboards, data cleaning, machine learning, or phishing detection**.
-- 📫 Reach me at **Rafayrizwani357@gmail.com**.
+- 📫 Reach me at **abdulrizwani1998@gmail.com**.
 
 ---
 
