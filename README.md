@@ -62,18 +62,7 @@
 | 🛡️ **[Phishing URL Detection](https://github.com/abdulrizwani1998-stack/phishing-url-detection)** | Classifies ~500k URLs (**ROC-AUC 0.94**) using explainable, hand-engineered features — my security + data piece. | `scikit-learn` |
 | 🧠 **[Ask-your-data — NL→SQL (AI)](https://github.com/abdulrizwani1998-stack/ask-your-data-llm)** | Turns plain-English questions into **safe, read-only SQL** with an LLM — the model writes SQL, my code runs it. | `OpenAI` `SQL` |
 
----
 
-## 📈 My GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulrizwani1998-stack&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrizwani1998-stack&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrizwani1998-stack&hide_border=true" alt="GitHub streak"/>
-</p>
 
 ---
 
