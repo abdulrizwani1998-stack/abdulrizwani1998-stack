@@ -17,8 +17,8 @@
 
 - 🎯 Early-career **Business Data Analyst** — I use **SQL, Power BI, Excel and Python** every day to answer real business questions.
 - 🎓 **Master of IT (Cyber Security major)** — which gives me a distinctive **security + data** edge.
-- 🧪 I've published **six end-to-end, reproducible analytics projects** (below) — each one I can clone, run, and explain end to end.
-- 💡 My focus: analysis that's **reproducible and defensible**, not impressive-looking code I can't justify.
+- 🧪 I've published **multiple end-to-end, reproducible analytics projects** (below).
+- 💡 My focus: analysis that's **reproducible and defensible**
 - 💬 Ask me about **SQL, dashboards, data cleaning, machine learning, or phishing detection**.
 - 📫 Reach me at **abdulrizwani1998@gmail.com**.
 
