@@ -19,7 +19,7 @@
 - 🎓 **Master of IT (Cyber Security major)** — which gives me a distinctive **security + data** edge.
 - 🧪 I've published **multiple end-to-end, reproducible analytics projects** (below).
 - 💡 My focus: analysis that's **reproducible and defensible**
-- 💬 Ask me about **SQL, dashboards, data cleaning, machine learning, or phishing detection**.
+- 💬 Ask me about **SQL, Power BI dashboards, data cleaning, A/B testing, customer segmentation, or machine learning**.
 - 📫 Reach me at **abdulrizwani1998@gmail.com**.
 
 ---
@@ -32,6 +32,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Programming & Analytics**
 
@@ -39,6 +40,8 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3B5998?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Databases & Tools**
@@ -57,6 +60,9 @@
 |---------|--------------------------------------|-------|
 | 🗄️ **[SQL Analytics — E-Commerce](https://github.com/abdulrizwani1998-stack/sql-ecommerce-analytics)** | Six business questions on 100k orders in SQL; **late deliveries roughly halve review scores** (4.3★ → 2.6★). | `SQL` `SQLite` |
 | 📈 **[NSW Road Crashes — Power BI](https://github.com/abdulrizwani1998-stack/nsw-road-crashes-powerbi)** | Cleans 92k official crash records + a full dashboard build guide (DAX, visuals); **fatalities cluster on high-speed roads & weekends**. | `Python` `Power BI` |
+| 📑 **[Excel Sales Dashboard](https://github.com/abdulrizwani1998-stack/excel-sales-dashboard)** | Cleans 10k retail rows in Python into a polished Excel workbook with native charts + a PivotTable/slicer dashboard guide; **flags 3 loss-making, over-discounted sub-categories**. | `Python` `Excel` |
+| 📊 **[Customer Segmentation — RFM & K-Means](https://github.com/abdulrizwani1998-stack/customer-segmentation-rfm)** | Segments ~4,300 customers with RFM + K-Means; **~1 in 6 customers drive ~2/3 of revenue**, with a win-back plan for an at-risk segment. | `scikit-learn` `pandas` |
+| 🧪 **[A/B Test Analysis](https://github.com/abdulrizwani1998-stack/ab-test-analysis)** | Analyses a 90k-user experiment — two-proportion z-test, chi-square & bootstrap (**p = 0.002**) — into a clear, caveated recommendation. | `SciPy` `statsmodels` |
 | 🧹 **[Sydney Airbnb — EDA](https://github.com/abdulrizwani1998-stack/sydney-airbnb-eda)** | Cleans a messy 17k-listing dataset; **superhosts get booked ~5× more**, and handles a missing-price data gap honestly. | `Python` `pandas` |
 | 🤖 **[Telco Churn — Machine Learning](https://github.com/abdulrizwani1998-stack/telco-churn-ml)** | Predicts churn (**ROC-AUC 0.84**) and explains the drivers — chooses recall over accuracy on purpose. | `scikit-learn` |
 | 🛡️ **[Phishing URL Detection](https://github.com/abdulrizwani1998-stack/phishing-url-detection)** | Classifies ~500k URLs (**ROC-AUC 0.94**) using explainable, hand-engineered features — my security + data piece. | `scikit-learn` |
@@ -69,7 +75,7 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="mailto:Rafayrizwani357@gmail.com"><img src="https://img.shields.io/badge/Email-Rafayrizwani357@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:abdulrizwani1998@gmail.com"><img src="https://img.shields.io/badge/Email-abdulrizwani1998@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/rafay-rizwani-273a8821b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
