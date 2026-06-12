@@ -17,7 +17,7 @@
 
 - 🎯 Early-career **Business Data Analyst** — I use **SQL, Power BI, Excel and Python** every day to answer real business questions.
 - 🎓 **Master of IT (Cyber Security major)** — which gives me a distinctive **security + data** edge.
-- 🧪 I've published **multiple end-to-end, reproducible analytics projects** (below).
+- 🧪 I've published **twelve end-to-end, reproducible analytics projects** (below).
 - 💡 My focus: analysis that's **reproducible and defensible**
 - 💬 Ask me about **SQL, Power BI dashboards, data cleaning, A/B testing, customer segmentation, or machine learning**.
 - 📫 Reach me at **abdulrizwani1998@gmail.com**.
@@ -50,6 +50,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -67,6 +70,9 @@
 | 🤖 **[Telco Churn — Machine Learning](https://github.com/abdulrizwani1998-stack/telco-churn-ml)** | Predicts churn (**ROC-AUC 0.84**) and explains the drivers — chooses recall over accuracy on purpose. | `scikit-learn` |
 | 🛡️ **[Phishing URL Detection](https://github.com/abdulrizwani1998-stack/phishing-url-detection)** | Classifies ~500k URLs (**ROC-AUC 0.94**) using explainable, hand-engineered features — my security + data piece. | `scikit-learn` |
 | 🧠 **[Ask-your-data — NL→SQL (AI)](https://github.com/abdulrizwani1998-stack/ask-your-data-llm)** | Turns plain-English questions into **safe, read-only SQL** with an LLM — the model writes SQL, my code runs it. | `OpenAI` `SQL` |
+| 📊 **[Global Superstore — Tableau Dashboard](https://github.com/abdulrizwani1998-stack/global-superstore-tableau)** | Cleans 51k global retail orders and ships a full Tableau build guide; **Technology is the most profitable category (14% margin) while EMEA underperforms at 5.5%**. | `Tableau` `Python` |
+| 📈 **[Retail Sales Forecasting — SARIMA](https://github.com/abdulrizwani1998-stack/retail-sales-forecasting)** | Forecasts weekly chain sales with walk-forward validation; **SARIMA beats a seasonal-naive baseline (MAPE 2.12% vs 2.50%)** — honest, incremental lift. | `statsmodels` `pandas` |
+| 🏗️ **[Olist dbt + DuckDB Analytics](https://github.com/abdulrizwani1998-stack/olist-dbt-analytics)** | Builds a tested, layered analytics warehouse on 99k orders; **91.9% on-time delivery, R$15.8M revenue, health\_beauty is the top category**. | `dbt` `DuckDB` `SQL` |
 
 
 
