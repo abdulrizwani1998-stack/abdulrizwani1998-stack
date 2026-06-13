@@ -17,7 +17,7 @@
 
 - 🎯 Early-career **Business Data Analyst** — I use **SQL, Power BI, Excel and Python** every day to answer real business questions.
 - 🎓 **Master of IT (Cyber Security major)** — which gives me a distinctive **security + data** edge.
-- 🧪 I've published **twelve end-to-end, reproducible analytics projects** (below).
+- 🧪 I've published **fifteen end-to-end, reproducible analytics projects** (below).
 - 💡 My focus: analysis that's **reproducible and defensible**
 - 💬 Ask me about **SQL, Power BI dashboards, data cleaning, A/B testing, customer segmentation, or machine learning**.
 - 📫 Reach me at **abdulrizwani1998@gmail.com**.
@@ -43,10 +43,12 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-3B5998?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Databases & Tools**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,6 +75,9 @@
 | 📊 **[Global Superstore — Tableau Dashboard](https://github.com/abdulrizwani1998-stack/global-superstore-tableau)** | Cleans 51k global retail orders and ships a full Tableau build guide; **Technology is the most profitable category (14% margin) while EMEA underperforms at 5.5%**. | `Tableau` `Python` |
 | 📈 **[Retail Sales Forecasting — SARIMA](https://github.com/abdulrizwani1998-stack/retail-sales-forecasting)** | Forecasts weekly chain sales with walk-forward validation; **SARIMA beats a seasonal-naive baseline (MAPE 2.12% vs 2.50%)** — honest, incremental lift. | `statsmodels` `pandas` |
 | 🏗️ **[Olist dbt + DuckDB Analytics](https://github.com/abdulrizwani1998-stack/olist-dbt-analytics)** | Builds a tested, layered analytics warehouse on 99k orders; **91.9% on-time delivery, R$15.8M revenue, health\_beauty is the top category**. | `dbt` `DuckDB` `SQL` |
+| 🇦🇺 **[NSW Labour Market — Streamlit](https://github.com/abdulrizwani1998-stack/nsw-open-data-streamlit)** | Interactive ABS unemployment dashboard; **NSW at 4.5% vs 4.67% cross-state average** in the latest month. | `Streamlit` `Python` |
+| 📉 **[Customer Cohort Retention & LTV](https://github.com/abdulrizwani1998-stack/customer-cohort-retention)** | Monthly cohort retention + 12-month LTV on 95k Olist customers; **month-1 retention 5.2%, best cohort +14.5% LTV vs average**. | `pandas` `seaborn` |
+| 🐘 **[PostgreSQL E-Commerce Analytics](https://github.com/abdulrizwani1998-stack/postgresql-ecommerce-analytics)** | Dockerised Postgres warehouse + six business SQL queries; **late deliveries score 2.57★ vs 4.30★ on-time**, with EXPLAIN ANALYZE index notes. | `PostgreSQL` `Docker` `SQL` |
 
 
 
